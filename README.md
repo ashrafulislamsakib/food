@@ -1,1 +1,3 @@
 # food
+
+permalink:index.html
