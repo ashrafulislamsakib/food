@@ -237,7 +237,7 @@
 	 }
 	 
 	 
-	 #footer{ font-size:13px;}
+	 #footer{ font-size:.8rem;}
 	 
 	 @media only screen and (max-width: 768px) {
 	 	.bar-btn {
