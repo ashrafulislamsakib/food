@@ -1,4 +1,9 @@
 	  
+	  @font-face {
+	     font-family: Oxygen;
+	     src: url("Oxygen-Reguler.ttf");
+	  }
+	  
 	  * {
 	    margin:0;
 	    padding:0;
@@ -37,7 +42,7 @@
 	  
 	 
 	 .header {
-	 	background:rgba(0,0,0,0.7)url("banner.jpg");
+	 	background:rgba(0,0,0,0.7)url("img/banner.jpg");
 	 	position:relative;
 	 	background-repeat:no-repeat;
 	 	background-size:cover;
